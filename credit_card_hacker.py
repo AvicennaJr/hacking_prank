@@ -32,7 +32,7 @@ for i, x in enumerate(numbers):
     progress_bar(i + 1, len(numbers))
 
 
-print("\n\n Credit Card Owner Found: SAIR SOHAIL")
+print("\n\n Credit Card Owner Found: ************")
 
 input("Please input the Account's SORT CODE: ")
 
